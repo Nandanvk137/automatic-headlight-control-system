@@ -6,8 +6,11 @@ ESP32-based intelligent headlight automation system using LDR sensor and ADC for
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-ESP32-blue?style=for-the-badge">
+  <br> </br>
   <img src="https://img.shields.io/badge/Domain-Embedded%20Systems-green?style=for-the-badge">
+  <br> </br>
   <img src="https://img.shields.io/badge/Sensor-LDR-orange?style=for-the-badge">
+  <br> </br>
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
 </p>
 
