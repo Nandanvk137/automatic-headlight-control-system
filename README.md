@@ -77,7 +77,7 @@ The ESP32 processes ADC readings in real time and controls the LED output accord
 
 ## 🏗️ System Architecture
 
-![System Architecture](images/system-architecture.png)
+![System Architecture](images/system.png)
 
 ---
 
